@@ -1,6 +1,6 @@
 # flutter_taro
 
-Taro Engine for Flutter
+Flutter for Taro
 
 ## Features
 
